@@ -1,0 +1,16 @@
+SRS Rev 04 Dryrun 050518
+Config: A0.9.4 / M00.85 / H 00.95
+
+Tested Specs, results/comments
+
+SRS-EI-110 Power Button and Power Status Indicator   (This will be done in HW V&V?)
+      OK
+SRS-EI-120
+      Open/Close OK, only with magnet, max 2 sec needs test somewhere else (whitebox)
+SRS-GR-130 Software Versions Display
+      SBC version is 0.9.4 not conforming to MM.mm format
+SRS-EI-410
+SRS-EI-510
+SRS-EI-520
+SRS-EI-710
+SRS-EI-810
